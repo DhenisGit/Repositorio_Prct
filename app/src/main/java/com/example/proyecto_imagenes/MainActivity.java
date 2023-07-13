@@ -47,17 +47,17 @@ public class MainActivity extends AppCompatActivity {
 
         imageView = findViewById(R.id.imageView5);
         // Cargar otra imagen con URL diferente
-        String url5 = "https://d500.epimg.net/cincodias/imagenes/2019/11/04/lifestyle/1572892359_005767_1572892909_noticia_normal.jpg";
+        String url5 = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEM9nV3Li33lWnf9Eh_0uUK6OzgRji2kahhg&usqp=CAU";
         Picasso.get().load(url5).into(imageView);
 
         imageView = findViewById(R.id.imageView6);
         // Cargar otra imagen con URL diferente
-        String url6 = "https://d500.epimg.net/cincodias/imagenes/2019/11/04/lifestyle/1572892359_005767_1572892909_noticia_normal.jpg";
+        String url6 = "https://i.pinimg.com/550x/02/a5/16/02a516cf564d7dd797cd6f31589cd55a.jpg";
         Picasso.get().load(url6).into(imageView);
 
         imageView = findViewById(R.id.imageView7);
         // Cargar otra imagen con URL diferente
-        String url7 = "https://d500.epimg.net/cincodias/imagenes/2019/11/04/lifestyle/1572892359_005767_1572892909_noticia_normal.jpg";
+        String url7 = "https://i.pinimg.com/originals/6b/46/19/6b461948a87c841549cdbf82d8bfd49c.jpg";
         Picasso.get().load(url7).into(imageView);
 
 

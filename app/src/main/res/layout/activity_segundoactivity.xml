@@ -39,6 +39,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide1"></ImageView>
 
@@ -50,6 +51,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide2"></ImageView>
 
@@ -61,6 +63,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide3"></ImageView>
 
@@ -72,6 +75,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide4"></ImageView>
 
@@ -83,6 +87,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide5"></ImageView>
 
@@ -94,6 +99,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="16dp"
         android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/glide6"></ImageView>
 
