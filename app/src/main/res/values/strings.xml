@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">menu_inicio</string>
+    <string name="saludo">Bienvenido Usuario :D</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_nav">Abrir</string>
+    <string name="close_nav">Cerrar</string>
 </resources>
